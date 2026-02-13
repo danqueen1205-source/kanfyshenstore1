@@ -1,0 +1,20 @@
+[2026-02-03 17:21:59] Admin: 8092473913 | Action: start | Target: user | Details: new:True
+[2026-02-03 17:22:49] Admin: 8092473913 | Action: start | Target: user | Details: new:False
+[2026-02-03 18:34:26] Admin: 8092473913 | Action: start | Target: user | Details: new:False
+[2026-02-03 18:40:23] Admin: 8092473913 | Action: start | Target: user | Details: new:False
+[2026-02-03 18:40:24] Admin: 5839729095 | Action: start | Target: user | Details: new:True
+[2026-02-03 18:40:26] Admin: 8092473913 | Action: start | Target: user | Details: new:False
+[2026-02-03 18:41:06] Admin: 5839729095 | Action: start | Target: user | Details: new:False
+[2026-02-03 18:41:07] Admin: 8092473913 | Action: start | Target: user | Details: new:False
+[2026-02-03 18:41:51] Admin: 5839729095 | Action: start | Target: user | Details: new:False
+[2026-02-05 08:19:50] Admin: 6686156758 | Action: start | Target: user | Details: new:True
+[2026-02-05 08:19:50] Admin: 6686156758 | Action: start | Target: user | Details: new:False
+[2026-02-05 15:50:56] Admin: @kanvylsia | Action: start | Target: user | Details: new:False
+[2026-02-06 08:28:05] Admin: @Mensory_coder | Action: start | Target: user | Details: new:True
+[2026-02-06 15:16:48] Admin: @Art92229 | Action: start | Target: user | Details: new:True
+[2026-02-06 15:20:15] Admin: @homyko | Action: start | Target: user | Details: new:True
+[2026-02-06 22:49:00] Admin: @kanvylsia | Action: create_smart_promo | Target: VIP9760 | Details: amount:1, uses:1, expires:1days
+[2026-02-06 22:49:09] Admin: @kanvylsia | Action: create_smart_promo | Target: GIFT4661 | Details: amount:100, uses:5, expires:30days
+[2026-02-06 23:15:01] Admin: @kanvylsia | Action: create_custom_promo | Target: EBLAN2121 | Details: amount:1, uses:1, expires:1days
+[2026-02-07 00:02:29] Admin: @kanvylsia | Action: create_custom_promo | Target: KANFYSHENSTORE2026 | Details: amount:5, uses:1, expires:1days
+[2026-02-07 00:04:59] Admin: @kanvylsia | Action: create_smart_promo | Target: BONUS4548 | Details: amount:100, uses:5, expires:30days
